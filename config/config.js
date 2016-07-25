@@ -1,1 +1,1 @@
-module.export = require('./' + process.env.NODE_ENV + '/config.js');
+module.exports = require('./' + process.env.NODE_ENV + '/config.js');
